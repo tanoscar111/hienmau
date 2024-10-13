@@ -13,6 +13,10 @@ export default function Layout({ children }) {
       <Head>
         <title>Hiến máu cứu người</title>
         <link rel="icon" href="" />
+        <meta
+          name="google-adsense-account"
+          content="ca-pub-9771230451108770"
+        ></meta>
       </Head>
       <Logo />
       <Navigation />
